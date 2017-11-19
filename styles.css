@@ -1,0 +1,79 @@
+
+body {
+  color: #333;
+  margin: 0;
+}
+#header {
+  background-color: #324545;
+  height: 150px;
+  line-height: 150px
+}
+#header-title {
+  display: block;
+  float: inline;
+  font-size: 500px;
+  font-weight: bold;
+}
+#header-nav {
+  display: block;
+  float: right;
+  margin-top: 0;
+
+}
+.container {
+  max-width: 1000px;
+  margin: 0px auto;
+
+}
+#header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 75px;
+  font-family: fantasy;
+  padding: 145px
+
+}
+#header a:hover {
+  color: 555;
+}
+.whatis {
+  margin-left: 150px;
+  margin-top: 100px;
+}
+.para1 {
+  margin-left: 160px;
+  font-size: 20px;
+  margin-top: -15px;
+}
+.para2 {
+  margin-top: -21px;
+  margin-left: 160px;
+  font-size: 20px;
+}
+.para3 {
+  margin-top: -21px;
+  margin-left: 160px;
+  font-size: 20px;
+}
+.para4 {
+  margin-top: -21px;
+  margin-left: 160px;
+  font-size: 20px;
+}
+.para5 {
+  margin-top: -21px;
+  margin-left: 160px;
+  font-size: 20px;
+}
+.para6 {
+  margin-top: -21px;
+  margin-left: 160px;
+  font-size: 20px;
+}
+.para7 {
+  margin-top: -21px;
+  margin-left: 160px;
+  font-size: 20px;
+}
